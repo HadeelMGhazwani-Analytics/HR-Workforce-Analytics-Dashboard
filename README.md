@@ -23,4 +23,4 @@ Key Features:
 
  Dashboard Preview
 
-![Dashboard Overview](Screenshots/Dashboard-Overview.png.jpg)
+![Dashboard Overview](Dashboard-Overview.png.jpg)
