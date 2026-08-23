@@ -19,3 +19,8 @@ Key Features:
  Dynamic KPI cards
  Map visualization
  Clear Filters functionality
+
+
+ Dashboard Preview
+
+![Dashboard Overview](Screenshots/Dashboard-Overview.png.jpg)
