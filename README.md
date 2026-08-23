@@ -41,4 +41,4 @@ Key Features:
 
  Dashboard Preview
 
-![Dashboard Overview](Dashboard-Overview.png.jpg)
+![Dashboard Overview](Dashboard-Overview.jpg)
