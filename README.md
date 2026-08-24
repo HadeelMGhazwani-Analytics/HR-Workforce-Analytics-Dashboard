@@ -41,5 +41,4 @@ Key Features:
 
  Dashboard Preview
 
-![Dashboard Overview](<img width="1532" height="860" alt="image" src="https://github.com/user-attachments/assets/9b359f22-8738-44b5-9b48-23702d0c39c7" />
-)
+![Dashboard Overview](Dashboard-Overview.jpg)
